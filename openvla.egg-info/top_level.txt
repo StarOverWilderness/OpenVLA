@@ -1,5 +1,0 @@
-dlimp_openvla
-experiments
-prismatic
-scripts
-vla-scripts
